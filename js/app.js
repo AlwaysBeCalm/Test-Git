@@ -1,7 +1,7 @@
 //هنا عدل كم تعديل
 //وأضفت function
 function justFunction() {
-    alert('hi');
+    var name = 'hassan';
 }
 
 function hi() {
@@ -9,7 +9,6 @@ function hi() {
     //added to vars
     var text = 'hi';
     var num1 = 1 + 1;
-
 
 
 }
