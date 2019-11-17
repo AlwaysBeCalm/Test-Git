@@ -3,3 +3,7 @@
 function justFunction() {
     alert('hi');
 }
+
+alert('my name is hassan');
+
+alert(name);
