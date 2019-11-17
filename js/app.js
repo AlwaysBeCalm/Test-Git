@@ -4,6 +4,12 @@ function justFunction() {
     alert('hi');
 }
 
-alert('my name is hassan');
+function hi() {
 
-alert(name);
+    //added to vars
+    var text = 'hi';
+    var num1 = 1 + 1;
+
+
+
+}
