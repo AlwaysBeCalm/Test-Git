@@ -1,7 +1,7 @@
 //هنا عدل كم تعديل
 //وأضفت function
 function justFunction() {
-    alert('hi');
+    var num2 = 2+2;
 }
 
 function hi() {
