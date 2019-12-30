@@ -10,5 +10,7 @@ function hi() {
     var text = 'hi';
     var num1 = 1 + 1;
 
+    //طيب هذا تعليق جديد
+
 
 }
