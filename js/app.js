@@ -12,6 +12,7 @@ function hi() {
     var num1 = 1 + 1;
 
     //طيب هذا تعليق جديد
+    //this a new comment from mac
 
 
 }
