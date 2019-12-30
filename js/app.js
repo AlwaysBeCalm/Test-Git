@@ -14,5 +14,22 @@ function hi() {
     //طيب هذا تعليق جديد
     //this a new comment from mac
 
+    function name(params) {
+        function name(params) {
+            function name(params) {
+                while (true) {
+                    while (true) {
+                        for (const key in object) {
+                            if (object.hasOwnProperty(key)) {
+                                const element = object[key];
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
 
 }
