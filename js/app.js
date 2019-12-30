@@ -2,6 +2,7 @@
 //وأضفت function
 function justFunction() {
     var num2 = 2+2;
+    var name = 'hassan';
 }
 
 function hi() {
@@ -9,7 +10,6 @@ function hi() {
     //added to vars
     var text = 'hi';
     var num1 = 1 + 1;
-
 
 
 }
