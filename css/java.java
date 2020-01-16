@@ -4,5 +4,6 @@ class java {
         System.out.println("Java2");
         int x = 10;
         System.out.println(x);
+        int y = 20;
     }
 }
