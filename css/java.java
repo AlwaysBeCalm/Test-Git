@@ -5,5 +5,6 @@ class java {
         int x = 10;
         System.out.println(x);
         int y = 20;
+        int xx = 20;
     }
 }
