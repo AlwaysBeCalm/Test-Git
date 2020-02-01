@@ -7,5 +7,6 @@ class java {
         int y = 20;
         System.out.println(y);
         // this is a comment
+        //now this file is ignored
     }
 }
