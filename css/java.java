@@ -5,6 +5,7 @@ class java {
         int x = 10;
         System.out.println(x);
         int y = 20;
-        //this is a comment
+        System.out.println(y);
+        // this is a comment
     }
 }
