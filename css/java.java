@@ -8,6 +8,7 @@ class java {
         System.out.println(y);
         // this is a comment
         //now this file is ignored
-        //this file is in the second branch
+        int yy = 20;
+        System.out.println(yy);
     }
 }
