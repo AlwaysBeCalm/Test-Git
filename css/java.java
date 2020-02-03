@@ -1,5 +1,8 @@
 class java {
     public static void main(String[] args) {
+
+        table t1 = new table(100, 200, 50, "brown");
+
         System.out.println("Hello Java");
         System.out.println("Java2");
         int x = 10;
@@ -16,5 +19,19 @@ class java {
 
     int add(int a, int b){
         return a+b;
+    }
+
+    class table{
+        double height;
+        double lenght;
+        double width;
+        String color;
+
+        table(){
+            
+        }
+        table(double a, double b, double c, String d){
+           this.setHeight(a);
+        }
     }
 }
