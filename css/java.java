@@ -7,5 +7,14 @@ class java {
         int y = 20;
         int xx = 20;
         //this is a comment
+        System.out.println(y);
+        // this is a comment
+        //now this file is ignored
+        int yy = 20;
+        System.out.println(yy);
+    }
+
+    int add(int a, int b){
+        return a+b;
     }
 }
