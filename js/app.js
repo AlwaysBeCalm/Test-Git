@@ -6,6 +6,7 @@ function justFunction() {
 }
 
 function name(params) {
+    var name;
     
 }
 
