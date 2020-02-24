@@ -1,8 +1,8 @@
 class java {
+
+    int ID;
+    String name;
     public static void main(String[] args) {
-
-        table t1 = new table(100, 200, 50, "brown");
-
         System.out.println("Hello Java");
         System.out.println("Java2");
         int x = 10;
@@ -10,9 +10,9 @@ class java {
         int y = 20;
         int xx = 20;
         //this is a comment
+        System.out.println(xx);
         System.out.println(y);
         // this is a comment
-        //now this file is ignored
         int yy = 20;
         System.out.println(yy);
     }
@@ -32,6 +32,10 @@ class java {
         }
         table(double a, double b, double c, String d){
            this.setHeight(a);
+        }
+
+        void setHeight(double a){
+            this.height = a;
         }
     }
 }
