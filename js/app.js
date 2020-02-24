@@ -5,6 +5,10 @@ function justFunction() {
     var name = 'hassan';
 }
 
+function name(params) {
+    
+}
+
 function hi() {
 
     //added to vars
