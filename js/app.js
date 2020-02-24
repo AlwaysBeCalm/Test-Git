@@ -1,12 +1,14 @@
 //هنا عدل كم تعديل
 //وأضفت function
 function justFunction() {
-    var num2 = 2+2;
+    var num2 = 2 + 2;
     var name = 'hassan';
 }
 
 function name(params) {
-    
+
+    console.log("Hello JS");
+
 }
 
 function hi() {
@@ -26,7 +28,7 @@ function hi() {
                         for (const key in object) {
                             if (object.hasOwnProperty(key)) {
                                 const element = object[key];
-                                
+
                             }
                         }
                     }
@@ -35,5 +37,5 @@ function hi() {
         }
     }
 
-//this comment is inside new branch
+    //this comment is inside new branch
 }
