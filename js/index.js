@@ -6,3 +6,5 @@ close
 console.memory;
 //let's see another conflict
 //in those lines
+alert(name);
+alert(friend);
