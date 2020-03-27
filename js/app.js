@@ -5,6 +5,15 @@ function justFunction() {
     var name = 'hassan';
 }
 
+var var1 = 20;
+var var2 = "Abdullah";
+
+//this function does nothing
+
+function f() {
+    return null;
+}
+
 function name(params) {
     console.log("Hello JS");
     var name;
