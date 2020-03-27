@@ -5,9 +5,6 @@ function justFunction() {
     var name = 'hassan';
 }
 
-var var1 = 20;
-var var2 = "SA";
-
 function name(params) {
 
     console.log("Hello JS");
