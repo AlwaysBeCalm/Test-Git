@@ -6,11 +6,8 @@ function justFunction() {
 }
 
 function name(params) {
-
     console.log("Hello JS");
-
     var name;
-
 }
 
 function hi() {
