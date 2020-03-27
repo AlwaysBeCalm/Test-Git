@@ -5,6 +5,10 @@ function justFunction() {
     var name = 'hassan';
 }
 
+function name(par) {
+    return name + " hi";
+}
+
 var var1 = 20;
 var var2 = "Abdullah";
 
