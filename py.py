@@ -1,2 +1,6 @@
-print 10**9print(10*9)
-print(100**99)
+Iam = 10
+
+while (Iam < 20)
+	print("still stdying")
+	Iam = Iam +1
+
