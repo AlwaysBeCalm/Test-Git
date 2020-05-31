@@ -9,7 +9,7 @@ class java {
         main(args);
 
         String strings[] = {"Hi", "Khalid"};
-        
+        int var = 100;
         mainAgain(strings);
     }
 
