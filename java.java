@@ -7,9 +7,9 @@ class java {
         System.out.println("the ecoding of a in binary is: " +Integer.toBinaryString((int) 'a'));
 
         main(args);
-
-        String strings[] = {"Hi", "Khalid"};
-        
+        //line1
+        //line2
+        //line3
         mainAgain(strings);
     }
 
