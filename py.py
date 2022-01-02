@@ -11,3 +11,7 @@ run this command in linux terminal as root
 
 
 print('Hello')
+
+# TODO: Explain the next function
+def fun (num1, num2):
+	pass
