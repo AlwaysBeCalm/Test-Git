@@ -9,3 +9,5 @@ while (Iam < 20)
 run this command in linux terminal as root
 '''
 
+
+print('Hello')
